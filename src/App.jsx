@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-    <h1>Faique  || Fardinn \|| Shoeb bhai bolte</h1>
+    <h1>Faique  || Fardinn || Shoeb bhai bolte teke ki aan baan shan shoeb ansari</h1>
       <div>
         <a href="https://vite.dev" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
